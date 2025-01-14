@@ -98,7 +98,6 @@ If you have any questions or suggestions, feel free to reach out:
 
 ## Acknowledgments
 - Thanks to the open-source community for inspiration and guidance.
-- Special shoutout to [HNB Garhwal University](https://www.hnbgu.ac.in/) for the academic support.
 
 ---
 
