@@ -26,7 +26,7 @@ To run this web app locally, ensure you have the following:
 ### Installation
 1. Clone the repository or download the source code:
    ```bash
-   git clone https://github.com/DibyanshuChauhan/password-generator.git
+   git clone https://github.com/DibyanshuChauhan/Password-generator.git
    ```
    Or [download as ZIP](https://github.com/DibyanshuChauhan/password-generator/archive/main.zip).
 
